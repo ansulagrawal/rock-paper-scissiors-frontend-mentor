@@ -43,4 +43,4 @@ export const choices = [
 ];
 
 
-export const COMPUTER_RESULT_TIMER = 400;
+export const COMPUTER_RESULT_TIMER = 500;
